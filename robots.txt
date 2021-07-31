@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://syair-31-juli-2021.herokuapp.com/host-https-mbahtogel.org/sitemap.xml
